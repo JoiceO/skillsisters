@@ -11,4 +11,4 @@ Equipe:
 Ana Cotta, Ana Ruth, Erica Sousa, Joice Oliveira, Lucivania Ventura e Thais Mickaelle 
 
  <img align="center" alt="Logo do time" height="300" width="300" src="./Imagens/Time.jpeg">
- <img align="center" alt="Logo do time" height="300" width="300" src="./Imagens/Logo.jpeg">
+ <img align="center" alt="Logo do time" height="300" width="500" src="./Imagens/Logo.jpeg">
