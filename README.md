@@ -9,6 +9,6 @@ SkillSisters é uma plataforma para reunir mulheres (cis e trans), com mais de 1
 
 Equipe:
 Ana Cotta, Ana Ruth, Erica Sousa, Joice Oliveira, Lucivania Ventura e Thais Mickaelle 
-<br/>
- <img align="center" alt="Logo do time" height="100" width="100" src="./Imagens/Time.jpeg">
- <img align="center" alt="Logo do time" height="100" width="100" src="./Imagens/Logo.jpeg">
+
+ <img align="center" alt="Logo do time" height="200" width="200" src="./Imagens/Time.jpeg">
+ <img align="center" alt="Logo do time" height="200" width="200" src="./Imagens/Logo.jpeg">
