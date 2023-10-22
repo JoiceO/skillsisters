@@ -8,7 +8,7 @@ SkillSisters é uma plataforma para reunir mulheres (cis e trans), com mais de 1
 
 
 Equipe:<br>
-:octocat: [Ana Paula Resende](https://github.com/draanacotta)<br>
+:octocat: [Ana Cotta](https://github.com/draanacotta)<br>
 :octocat: [Ana Ruth Soares](https://github.com/anaruth-13)<br>
 :octocat: [Erica Sousa](https://github.com/ERICASSOUSA) <br>
 :octocat: [Joice Oliveira](https://github.com/JoiceO) <br>
