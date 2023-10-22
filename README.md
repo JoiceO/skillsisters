@@ -6,6 +6,8 @@ Projeto criado durante o [Hackaton das Manas - 3ª edição](https://www.hackath
 
 SkillSisters é uma plataforma para reunir mulheres (cis e trans), com mais de 18 anos, que estão ou desejam ingressar na carreira de tecnologia. Um ambiente de tecnologia onde mulheres se sintam valorizadas, respeitadas e capacitadas, e onde possam contribuir plenamente para a inovação e o progresso tecnológico.<br><br>
 
+Acesse o site [aqui](https://sisters-one.vercel.app/)<br><br>
+
 
 Equipe:<br>
 :octocat: [Ana Cotta](https://github.com/draanacotta)<br>
