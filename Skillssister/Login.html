@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login</title>
+  <link rel="stylesheet" href="./Login.css">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <!--cabecalho-->
+  <header id="header">
+    <img id="logo" src="./img/LOGO_SKILLSISTERS.png">
+    <nav id="nav">
+      <button
+        aria-label="Abrir Menu"
+        id="btn-mobile"
+        aria-haspopup="true"
+        aria-controls="menu"
+        aria-expanded="false"
+      >
+
+        <span id="hamburger"></span>
+      </button>
+      <ul id="menu" role="menu">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="index.html">Quem somos</a></li>
+        <li><a href="index.html">Grupo de apoio</a></li>
+        <li><a href="index.html">Trilha de aprendizagem</a></li>
+        <li><a href="Login.html">Download</a></li>
+        <li><a href="https://instagram.com/skillsisters.br?igshid=MzRlODBiNWFlZA==" target="_blank">Contato</a></li>
+        <li><a href="Login.html">Login</a></li>
+      </ul>
+    </nav>
+    </header>
+    <!--end cabecalho-->
+
+  <main id="login">
+    <!--Start lodin-->
+    <section class="container forms">
+      <div class="form login">
+        <div class="form-content">
+          <div class="form-txt">Login</div>
+
+          <form action="#">
+            <div class="field input-field">
+              <input type="email" placeholder="Email" class="input" />
+            </div>
+
+            <div class="field input-field">
+              <input
+                type="password"
+                placeholder="Password"
+                class="password"
+              />
+              <i class="bx bx-hide eye-icon"></i>
+            </div>
+
+            <div class="form-link">
+              <a href="#" class="forgot-pass">Forgot password?</a>
+            </div>
+
+            <div class="field button-field">
+              <button>Login</button>
+            </div>
+          </form>
+
+          <div class="form-link">
+            <span
+              >Already have an account?
+              <a href="#" class="link signup-link">Signup</a></span
+            >
+          </div>
+        </div>
+
+        <div class="line"></div>
+
+        <div class="media-options">
+          <a href="#" class="field google">
+            <img src="img/google.png" alt="" class="google-img" />
+            <samp>Login with Google</samp>
+          </a>
+        </div>
+      </div>
+      <!--End login-->
+      <!--Start signup-->
+      <div class="form signup">
+        <div class="form-content">
+          <div class="form-txt">Signup</div>
+
+          <form action="#">
+            <div class="field input-field">
+              <input type="email" placeholder="Email" class="input" />
+            </div>
+
+            <div class="field input-field">
+              <input
+                type="password"
+                placeholder="Password"
+                class="password"
+              />
+            </div>
+
+            <div class="field input-field">
+              <input
+                type="password"
+                placeholder="Password"
+                class="password"
+              />
+              <i class="bx bx-hide eye-icon"></i>
+            </div>
+
+            <div class="field button-field">
+              <button>Signup</button>
+            </div>
+          </form>
+
+          <div class="form-link">
+            <span
+              >Already have an account?
+              <a href="#" class="link login-link">Login</a></span
+            >
+          </div>
+        </div>
+
+        <div class="line"></div>
+
+        <div class="media-options">
+          <a href="#" class="field google">
+            <img src="../photos/google.png" alt="" class="google-img" />
+            <samp>Login with Google</samp>
+          </a>
+        </div>
+      </div>
+      <!--Start signup-->
+    </section>
+  </main>
+
+</body>
+</html>
